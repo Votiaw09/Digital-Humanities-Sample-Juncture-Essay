@@ -10,22 +10,33 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q185372"> <!-- Simeon Solomon by David Wilkie Wynfield -->
+<param ve-entity eid="Q41264"> <!-- Sappho and Erinna in a Garden at Mytilene painting -->
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+This is Austin's sample visual essay for Intro to Digital Humanities. It took me a long time to get the banner right!
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 # Basic usage
+                                                                                                                             
+## Image
+
+_Simeon Solomon_ by Simeon Solomon depicts the famous 
+                                                                                                                             (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
+dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
+20th century after the earring worn by the girl portrayed there.[^1]
+<param ve-image 
+       label="Simeon Solomon, by David Wilkie Wynfield" 
+       description="Photograph of Pre-Raphaelite painter Simeon Solomon in oriental costume." 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/3/30/Wynfield%2C_David_Wilkie_%281837-1887%29%2C_Simeon_Solomon.jpg">                                                                                                                             
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
+_Sappho and Erinna in a Garden at Mytilene_ by Simeon Solomon depicts the famous 
+                                                                                                                             (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
@@ -33,20 +44,6 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        description="painting by Simeon Solomon" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/6/6c/Sappho_and_Erinna_in_a_Garden_at_Mytilene.jpg">
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # References
 
