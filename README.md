@@ -3,7 +3,7 @@
 <param ve-config 
        title="Simeon Solomon: Revealing Love"
        author="Austin Votis"
-       banner="![banner](https://user-images.githubusercontent.com/116119507/197918372-433b56e5-29c9-497a-9f94-11c73615f88d.png)
+       banner="https://user-images.githubusercontent.com/116119507/197918372-433b56e5-29c9-497a-9f94-11c73615f88d.png"
 " 
        layout="vertical">
 
