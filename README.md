@@ -3,7 +3,8 @@
 <param ve-config 
        title="Simeon Solomon: Revealing Love"
        author="Austin Votis"
-       banner="[THE_FORSAKEN_ARIADNE_](https://user-images.githubusercontent.com/116119507/197917307-be2f5b3f-32cf-4000-86c8-c52cb49088a1.jpg)]" 
+       banner="![banner](https://user-images.githubusercontent.com/116119507/197918372-433b56e5-29c9-497a-9f94-11c73615f88d.png)
+" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
